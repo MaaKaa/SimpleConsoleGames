@@ -2,6 +2,7 @@ The project contains few simple console games.
 
 
 **Guess the number**
+
 Simple console game, allowing user to guess a number.
 
 HOW IT WORKS?
@@ -16,6 +17,7 @@ b). If the number given by the user is greater than the random number, the syste
 c). If the number given by the user is equal to the number drawn, the system displays a message: "You're right! Congrats!" and then exit the program.
 
 **Lottery**
+
 Simple console game, that draws 6 random numbers between 1 and 49.
 
 HOW IT WORKS?
